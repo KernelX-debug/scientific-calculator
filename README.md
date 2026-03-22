@@ -112,10 +112,10 @@ Trigonometric functions operate in **degrees**.
 
 ## 👨‍💻 Author
 
-**Angel Casas**
+**KernelX-debug**
 
 ---
 
 ## 📜 License
 
-Open-source project intended for educational purposes.
+Apatche.
