@@ -118,4 +118,4 @@ Trigonometric functions operate in **degrees**.
 
 ## 📜 License
 
-Apatche.
+Apache 2.0 License
